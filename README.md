@@ -24,6 +24,9 @@
 
 **En Croissant 2.0** is an open-source, cross-platform chess GUI and database toolkit designed for speed, flexibility, and deep analysis. Built with Rust, Tauri 2, and React 19, it provides tournament players, Grandmasters, and chess enthusiasts with the most powerful free analysis workbench available.
 
+> [!IMPORTANT]
+> **Platform Compatibility Note**: Currently, this repository is only working and supported on **Linux**. It is not working on **Windows**, and compatibility on **macOS** is currently unverified.
+
 ---
 
 ## ⚡ What's New in Version 2.0
